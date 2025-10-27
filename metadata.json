@@ -1,0 +1,5 @@
+{
+  "name": "AI News Aggregator",
+  "description": "An AI-powered newsletter aggregator that fetches, summarizes, and ranks the latest news in Artificial Intelligence from multiple sources on the internet.",
+  "requestFramePermissions": []
+}
